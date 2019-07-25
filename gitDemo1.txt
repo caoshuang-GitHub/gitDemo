@@ -4,3 +4,5 @@ gitDemo1
 update gitDemo1
 
 re update gitDemo1
+
+git  push
