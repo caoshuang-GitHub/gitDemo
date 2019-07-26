@@ -13,4 +13,4 @@ update dev
 
 dev conflict
 
-master conflict
+master conflict and re dev conflict
