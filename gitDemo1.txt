@@ -12,3 +12,5 @@ create dev branch
 update dev
 
 dev conflict
+
+master conflict
